@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "activity_path": "https://raw.githubusercontent.com/hotavocado/KSADS-maniahypomania/master/activities/",
+        "maniahypomania": {
+            "@id": "activity_path:maniahypomania/maniahypomania_schema",
+            "@type": "@id"
+        }
+    }
+}

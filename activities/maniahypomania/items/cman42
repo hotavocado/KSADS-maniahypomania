@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "cman42",
+    "ui": {
+        "inputType": "static"
+    },
+    "question": "### Associated Conditions (Episode)\r\n\r\n_INTERVIEWER: Associated condition questions apply **ONLY** to episode being coded._",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

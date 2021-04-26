@@ -1,0 +1,26 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/hotavocado/KSADS-maniahypomania/master/protocols/KSADS_maniahypomania/KSADS_maniahypomania_context"
+    ],
+    "@type": "reproschema:Protocol",
+    "@id": "KSADS_maniahypomania_schema",
+    "skos:prefLabel": "Mania/Hypomania",
+    "schema:description": "Mania/Hypomania section for KSADS interview",
+    "landingPage": "https://raw.githubusercontent.com/hotavocado/KSADS-maniahypomania/master/protocols/KSADS_maniahypomania/README.md",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "maniahypomania",
+                "isAbout": "maniahypomania",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "maniahypomania"
+        ],
+        "shuffle": false
+    }
+}

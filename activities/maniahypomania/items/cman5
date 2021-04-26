@@ -1,0 +1,14 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "cman5",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "How old were you when this ended?",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}

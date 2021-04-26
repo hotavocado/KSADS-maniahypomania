@@ -1,0 +1,15 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "dcman108",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "Specify (Medication 2):",
+    "schema:description": "MEDICATION",
+    "responseOptions": {
+        "requiredValue": ""
+    }
+}
